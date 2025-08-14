@@ -61,21 +61,9 @@ npm start
    cd ../DigitalComplaint
    npm install
    npm start
-📸 Screenshots
 
-![Screenshot (61)](https://github.com/user-attachments/assets/2b79a364-80ec-4907-86ec-a7e424721a0a)
-![Screenshot (62)](https://github.com/user-attachments/assets/8bf23336-7248-41c5-9134-fbb708eba47c)
-![Screenshot (63)](https://github.com/user-attachments/assets/93ffaebd-5a2a-4e71-8237-b931310fa682)
-![Screenshot (64)](https://github.com/user-attachments/assets/28412613-1e58-44de-9d89-a0627b7e6abe)
-![Screenshot (65)](https://github.com/user-attachments/assets/17a2eca1-06a7-4afe-88f6-97dcbfda35bb)
-![Screenshot (66)](https://github.com/user-attachments/assets/9df4760c-4806-4290-9b72-d3bb0fa21378)
-![Screenshot (67)](https://github.com/user-attachments/assets/40aed493-d587-49f3-b343-d87ba1c20059)
-![Screenshot (68)](https://github.com/user-attachments/assets/e10ccb8c-6373-4f41-8859-3705f4ecfe7b)
 
 ✍️ Author
-Ankit Gupta
+Amit Kumar
 Computer Science & Engineering
 Vignan’s Foundation for Science, Technology & Research
-
-🔗 https://www.linkedin.com/in/ankit-gupta-507b242aa/
-# DigiComplaint-Feedback
